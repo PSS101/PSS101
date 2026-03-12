@@ -25,7 +25,7 @@
 
 ## 🔥 Streak Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PSS101&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight)
 
 ## 🌐 Connect
 
