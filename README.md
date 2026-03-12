@@ -21,11 +21,11 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=PSS101\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSS101&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats
 
-![streak](https://streak-stats.demolab.com/?user=PSS101)
+![GitHub Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight)
 
 ## 🌐 Connect
 
