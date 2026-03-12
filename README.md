@@ -29,5 +29,5 @@
 
 ## 🌐 Connect
 
-* LinkedIn: (add here)
-* Email: (add here)
+* LinkedIn: https://www.linkedin.com/in/sai-shanmukha-panidepu/
+* Email: saishanmukhapanidepu@gmail.com
