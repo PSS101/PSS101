@@ -25,7 +25,7 @@
 
 ## 🔥 Streak Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=PSS101&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PSS101&theme=tokyo-night)
 
 ## 🌐 Connect
 
