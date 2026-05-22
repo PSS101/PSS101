@@ -72,7 +72,7 @@ Git • Linux • MediaPipe • FreeCAD • VS Code
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSS101&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSS101&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight&hide_border=true)
 
 </div>
