@@ -12,8 +12,9 @@
 
 - 🔬 Building **Indian Sign Language Recognition systems** using CNN, LSTM & GNNs  
 - 🤖 Exploring **Transformers, Graph Neural Networks & Deep Learning architectures**  
-- ⚙️ Working with **Embedded Systems (Arduino, ESP32, STM32)**  
-- 🌐 Interested in **Web3, Smart Contracts & Decentralized Apps**  
+- ⚙️ Working on **Embedded Systems & IoT (Arduino, ESP32, STM32)**  
+- 🌐 Interested in **Web3, Smart Contracts & Decentralized Applications**  
+- 🧩 Passionate about building **AI + Hardware integrated systems**
 
 ---
 
@@ -25,6 +26,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,19 +35,36 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
+---
+
 ### 🤖 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🔌 Embedded Systems
-Arduino | ESP32 | STM32 | IoT | FreeRTOS  
+- CNN, RNN, LSTM, Transformers  
+- Graph Neural Networks (GNNs)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔌 Embedded Systems & IoT
+Arduino • ESP32 • STM32 • IoT Systems • FreeRTOS • Sensor Integration
+
+---
 
 ### ⛓ Blockchain
-Web3.js | Smart Contracts | Solidity  
+Web3.js • Solidity • Smart Contracts • DApps
 
-### 🧰 Tools
-Git | Linux | MediaPipe | FreeCAD  
+---
+
+### 🧰 Tools & Platforms
+Git • Linux • MediaPipe • FreeCAD • VS Code
 
 ---
 
@@ -77,4 +97,4 @@ Git | Linux | MediaPipe | FreeCAD
 ---
 
 ## ⚡ Fun Fact
-> I like building systems that connect **AI + Embedded + Real-world hardware** 🚀
+> I enjoy building systems that combine **AI, Embedded Hardware, and Real-world applications** 🚀
