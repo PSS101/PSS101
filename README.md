@@ -68,13 +68,19 @@ Git • Linux • MediaPipe • FreeCAD • VS Code
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
-<div align="center">
+## 🌆 Skyline
+[![Skyline](https://skyline.github.com/PSS101/2025.png)](https://skyline.github.com/PSS101)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSS101&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight&hide_border=true)
+## 📌 Profile Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PSS101&theme=tokyonight)
 
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight)
+
+## 💻 Top Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSS101&layout=donut&theme=tokyonight)
 </div>
 
 ---
