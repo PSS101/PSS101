@@ -78,11 +78,6 @@ Git • Linux • MediaPipe • FreeCAD • VS Code
 ## 🔥 Streak
 ![Streak](https://streak-stats.demolab.com?user=PSS101&theme=tokyonight)
 
-
-
----
-
-
 ---
 
 ## 🌐 Connect With Me
