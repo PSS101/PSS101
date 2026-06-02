@@ -28,11 +28,11 @@
 
 | Focus | Description |
 |-------|-------------|
-| **Indian Sign Language Recognition** | Real-time ISL recognition pipeline using CNN, LSTM & Graph Neural Networks |
-| **Deep Learning Research** | Exploring Transformers, GNNs, and novel architectures for sequence understanding |
-| **Embedded + AI Integration** | Fusing ML models with microcontrollers (ESP32, STM32) for edge intelligence |
-| **Web3 & DApps** | Smart contract development with Solidity; decentralized application architecture |
-
+| **Computer Vision & Sign Language AI** | Real-time gesture and sign language understanding using landmark-based learning, Graph Neural Networks, and deep sequence models. |
+| **AI Research** | Exploring Transformers, GNNs, multimodal learning, and efficient deep learning architectures for real-world applications. |
+| **Embedded Intelligence** | Bringing AI to edge devices through ESP32, STM32, TinyML, sensor fusion, and embedded optimization. |
+| **IoT Systems Engineering** | Developing scalable IoT solutions with distributed sensing, device communication, and centralized intelligence. |
+| **Blockchain & Web3** | Creating decentralized applications and smart contracts while studying secure distributed systems. |
 ---
 
 ## 🛠 Tech Stack
