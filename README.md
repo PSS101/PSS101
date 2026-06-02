@@ -84,7 +84,7 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PSS101&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=PSS101&theme=github-dark-blue&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=PSS101&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
 
