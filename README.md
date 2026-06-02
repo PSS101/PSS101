@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm PSS  
+# 👋 Hi, I'm PSS (P Sai Shanmukha)
 
 ### 🚀 AI/ML Developer | Embedded Systems Engineer | Blockchain Enthusiast | Computer Vision Explorer  
 
