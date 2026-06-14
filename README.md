@@ -9,7 +9,7 @@
 </pre>
 </div>
 
-# P Sai Shanmukha — PSS101
+#PSS101
 
 **Building at the intersection of AI, Hardware, and Real-World impact**
 
